@@ -50,7 +50,7 @@ Source: https://github.com/datasciencedojo/datasets/blob/master/titanic.csv
 
 ## How to run
 ```bash
-git clone https://github.com/<your-username>/SWYNEX-Data-Preparation.git
+git clone https://github.com/<challasrinuvas>/SWYNEX-Data-Preparation.git
 cd SWYNEX-Data-Preparation
 pip install pandas numpy matplotlib jupyter
 jupyter notebook data_preparation.ipynb
